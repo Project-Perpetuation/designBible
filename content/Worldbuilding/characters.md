@@ -1,6 +1,7 @@
 ---
 draft: false
-title: Welcome to the Project Perpetuation Design Bible!
+title: Characters
+description: The characters of the game.
 ---
 
 This will be filled with content, eventually.

@@ -1,6 +1,7 @@
 ---
 draft: false
-title: Welcome to the Project Perpetuation Design Bible!
+title: History
+description: The historical context of the game.
 ---
 
 This will be filled with content, eventually.

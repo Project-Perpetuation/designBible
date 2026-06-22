@@ -1,6 +1,7 @@
 ---
 draft: false
-title: Welcome to the Project Perpetuation Design Bible!
+title: Revenue
+description: The revenue streams of the game.
 ---
 
 This will be filled with content, eventually.
