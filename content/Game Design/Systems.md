@@ -1,13 +1,10 @@
 ---
 draft: false
-title: Setting
+title: Systems
 tags:
- - faction
- - character
- - lore
- - story
- - theme
-description: The setting (locations) of the game.
+ - design
+ - systems
+description: The systems of the game
 quartz-properties: false
 quartz-properties-collapse: true
 ---

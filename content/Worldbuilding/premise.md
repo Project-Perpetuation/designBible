@@ -1,7 +1,14 @@
 ---
 draft: false
 title: Premise
-description: The general premise of the game.
+tags:
+ - faction
+ - character
+ - lore
+ - story
+ - theme
+description: The premise of the game (why the player matters).
+quartz-properties: false
+quartz-properties-collapse: true
 ---
-
 This will be filled with content, eventually.

@@ -1,13 +1,11 @@
 ---
 draft: false
-title: Setting
+title: Mechanics
 tags:
- - faction
- - character
- - lore
- - story
- - theme
-description: The setting (locations) of the game.
+ - game design
+ - systems
+ - mechanics
+description: The mechanics of the game.
 quartz-properties: false
 quartz-properties-collapse: true
 ---
