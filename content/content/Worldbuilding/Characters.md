@@ -3,7 +3,7 @@ publish: true
 title: Characters
 description: The characters of the game.
 created: 2026-07-22T02:13:14.029+08:00
-modified: 2026-07-22T02:23:35.015+08:00
+modified: 2026-07-22T02:27:16.258+08:00
 tags:
   - worldbuilding
   - faction
